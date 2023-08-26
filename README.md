@@ -1,5 +1,8 @@
-# nfproviz
-A small tool to parse experimental BioObject Component output from Nextlfow
+# NF-Pro(v)Viz
+
+A small tool to parse experimental BioObject Component output from Nextflow,
+worked on in [this PR](https://github.com/nextflow-io/nf-prov/pull/3), into an
+HTML report with a plotted DAG (via GraphViz)
 
 ## Requirements
 
